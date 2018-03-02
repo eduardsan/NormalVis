@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 ## Introduction
 
-`About the slides:` These slides correspond to week 4's assignment of the *Developing Data Products* course of the Johns Hopkins University on Coursera. The slides refer to the Shiny web application available **here**. Source code of both the application and the slides can be found on GitHub at **TBD**.
+`About the slides:` These slides correspond to week 4's assignment of the *Developing Data Products* course of the Johns Hopkins University on Coursera. The slides refer to the Shiny web application available at https://eduardsan.shinyapps.io/NormalVis/. Source code of both the application and the slides can be found on GitHub at https://github.com/eduardsan/NormalVis.
 
 `About the application:` The developed Shiny application enables the user to experiment with a number of parameters related to normal distributions. The user can set values such as the mean of the normal distribution, its standard deviation and a specific number of points for random generation, among other parameters, and graphically observe the results.
 
